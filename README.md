@@ -1,4 +1,4 @@
-# 🛡️ Network Security Engineer Profile
+# 🛡️ Network Security Engineer
 
 👋 Hi, I'm **Ajeesh C A**  
 💻 **Network Security Engineer | CCNA | CCNP | CCIE SECURITY**
