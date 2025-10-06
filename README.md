@@ -12,7 +12,6 @@
 🔹 Skilled in network automation and threat detection.  
 🔹 Always exploring new security technologies and tools.  
 🔹 Enthusiastic about SD-WAN, Zero Trust.
-🔹 Based in Bengaluru, Karnataka, India.
 
 ---
 
