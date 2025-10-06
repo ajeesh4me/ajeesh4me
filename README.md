@@ -11,6 +11,8 @@
 🔹 Hands-on experience with firewalls like **Fortinet, Palo Alto, Checkpoint, Proxy**, and **VPN**.  
 🔹 Skilled in network automation and threat detection.  
 🔹 Always exploring new security technologies and tools.  
+🔹 Enthusiastic about SD-WAN, Zero Trust.
+🔹 Based in Bengaluru, Karnataka, India.
 
 ---
 
